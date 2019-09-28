@@ -25,13 +25,13 @@ You can contribute to any of these:
 
 ## Contribute to this open source codebase
 
-Our codebase has thousands of [coding challenges](https://learn.freecodecamp.org) and other source code that powers our learning platform.
+Our codebase has thousands of [coding challenges](https://learn.freecodecamp.org) and other source code that powers our learning platform.This will help you increase your coding skils which will be very useful in your professional life.
 
 ### Create, update and fix bugs in our coding challenges
 
 All our coding challenges are curated by the community, bringing in expert knowledge from volunteers like you.
 
-You can help expand them and make their wording clearer. You can update the user stories to explain the concept better and even remove redundant ones. You can also improve the challenge tests to make them more accurately test people's code.
+You can help expand them and make their wording clearer. You can update the user stories to explain the concept better and even remove redundant ones. You can also improve the challenge tests to make them more accurately test people's code.Your ontribution also helps the newbies understand more and learn accordingly.
 
 **If you're interested in improving these coding challenges, here's [how to work on coding challenges](/docs/how-to-work-on-coding-challenges.md).**
 
@@ -83,7 +83,7 @@ For typos and other wording changes, you can directly open pull requests without
 
 **I am new to GitHub and Open Source in general:**
 
-Read our [How to Contribute to Open Source Guide](https://github.com/freeCodeCamp/how-to-contribute-to-open-source).
+Read our [How to Contribute to Open Source Guide](https://github.com/freeCodeCamp/how-to-contribute-to-open-source).Contribution via Open Source Platforms like github not only helps you but thousands of people all over the world.
 
 **I am stuck on something that is not included in this documentation. How can I get help?**
 
