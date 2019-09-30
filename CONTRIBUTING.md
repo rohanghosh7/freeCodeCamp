@@ -26,6 +26,7 @@ You can contribute to any of these:
 ## Contribute to this open source codebase
 
 Our codebase has thousands of [coding challenges](https://learn.freecodecamp.org) and other source code that powers our learning platform.This will help you increase your coding skils which will be very useful in your professional life.
+Open source development is the future of software. It's great for users like you and me because open source software is usually free (not always) and often safer to use because malicious code is less likely to be implemented.
 
 ### Create, update and fix bugs in our coding challenges
 
